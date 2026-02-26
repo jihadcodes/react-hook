@@ -46,13 +46,13 @@ const App = () => {
         show ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-4 pointer-events-none"
       }`}>
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">🚀 Service</a>
+          <a href="#" className="font-medium text-gray-700"> Service</a>
         </li>
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">📝 Blog</a>
+          <a href="#" className="font-medium text-gray-700"> Blog</a>
         </li>
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">📞 Contact</a>
+          <a href="#" className="font-medium text-gray-700"> Contact</a>
         </li>
       </ul>
 
@@ -76,13 +76,13 @@ const App = () => {
         className="mt-6 space-y-1 transition-all duration-500"
       >
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">🚀 Service</a>
+          <a href="#" className="font-medium text-gray-700">Service</a>
         </li>
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">📝 Blog</a>
+          <a href="#" className="font-medium text-gray-700">Blog</a>
         </li>
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
-          <a href="#" className="font-medium text-gray-700">📞 Contact</a>
+          <a href="#" className="font-medium text-gray-700"> Contact</a>
         </li>
       </ul>
 
