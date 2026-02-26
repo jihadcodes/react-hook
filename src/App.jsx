@@ -72,7 +72,7 @@ const App = () => {
         Show Menu
       </button>
 
-      <ul ref={showRef} style={{ display:"block" }}
+      <ul ref={showRef} style={{ display:"none" }}
         className="mt-6 space-y-1 transition-all duration-500"
       >
         <li className="hover:bg-white/60 p-2 rounded-lg transition">
